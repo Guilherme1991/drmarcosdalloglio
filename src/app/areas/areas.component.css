@@ -1,0 +1,19 @@
+.areas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.atuacao {
+    width: 300px;
+    margin: 20px;
+    border: 2px solid #2772af;
+    padding: 40px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.atuacao:hover, .atuacao p :hover {
+    background-color: #9ac3e4;
+    color: #f1f1f1;
+}

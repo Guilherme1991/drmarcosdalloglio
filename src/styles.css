@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+button {
+    padding: 15px 30px;
+    color: #f1f1f1;
+    background-color: #2772af;
+    border: 2px solid #f1f1f1;
+}
+.txtcenter {
+    text-align: center;
+    color: #63cbe8;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+h3 {
+    color:  #2772af;
+    line-height: 40px;
+}
+p {
+    line-height: 23px;
+    color: rgb(104, 103, 103);
+}
+.router-link-active {
+    background-color: #63cbe861;
+}

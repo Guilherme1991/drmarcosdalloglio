@@ -1,0 +1,11 @@
+.slider {
+    overflow: hidden;
+}
+.hospitais {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.hospital {
+    padding: 10px 20px;
+}

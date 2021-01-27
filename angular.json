@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "drmarcosdalloglio"
+    }
+  },
+  "defaultProject": "drmarcosdalloglio",
+  "cli": {
+    "analytics": "9b7565fd-1e1f-48d7-8b11-36c0df5af95c"
+  }
 }

@@ -1,0 +1,38 @@
+.address img {
+    width: 150px;
+}
+.container-footer {
+    display: flex;
+    justify-content: center;
+}
+address {
+    text-align: center;
+}
+footer {
+    border-top: 7px solid #63cbe861;
+    padding: 15px 0;
+}
+.corp {
+    display: flex;
+    justify-content: center;
+}
+.corp h3 {
+    font-size: 17px;
+    color: #58c8e7;
+}
+.navigation-footer nav ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.navigation-footer nav ul li {
+    padding: 0 10px;
+    list-style: none;
+}
+.navigation-footer nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+.navigation-footer nav ul li a:hover {
+    color: #58c8e7;
+}
